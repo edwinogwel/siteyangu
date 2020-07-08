@@ -106,14 +106,16 @@ li a:hover {
 
 #footer {
    width: 100%;
-   margin: 7px;
-   background-color: #271f1f;
    text-align:center;
-   padding:10px;
-   margin-top:7px;
-   color: white;
    font-weight: 600;
-   font-size: 16px;
+   font-size: 14px;
+  
+}
+
+.social_icons {
+    padding: 20px;
+    text-align: center;
+
 }
 
 #picha {
